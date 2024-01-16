@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothysubekti0322&label=Profile%20views&color=0e75b6&style=flat" alt="timothysubekti0322" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timothysubekti0322" alt="timothysubekti0322" /></a> </p>
-
 - 🔭 I’m currently working on [Rajawali Air](https://rajawali-air.vercel.app/)
 
 - 🌱 I’m currently learning **Next.JS, React.JS, Codeigniter, and Laravel**
@@ -18,6 +16,8 @@
 - 📫 How to reach me **https://www.linkedin.com/in/timothy-subekti**
 
 - ⚡ Fun fact **love to learn new language, include your love language ❤️**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timothysubekti0322" alt="timothysubekti0322" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
