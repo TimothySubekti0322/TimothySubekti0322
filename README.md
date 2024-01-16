@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **love to learn new language, include your love language ❤️**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timothysubekti0322" alt="timothysubekti0322" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/182_timothy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="182_timothy" height="30" width="40" /></a>
@@ -34,5 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothysubekti0322&show_icons=true&locale=en&layout=compact" alt="timothysubekti0322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timothysubekti0322&show_icons=true&locale=en" alt="timothysubekti0322" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timothysubekti0322" alt="timothysubekti0322" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timothysubekti0322&" alt="timothysubekti0322" /></p>
