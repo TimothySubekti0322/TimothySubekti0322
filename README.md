@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothysubekti0322&label=Profile%20views&color=0e75b6&style=flat" alt="timothysubekti0322" /> </p>
 
-- 🔭 I’m currently working on [Rajawali Air](https://rajawali-air.vercel.app/)
+- 🔭 I’m currently working on PT Sprint Asia
 
 - 🌱 I’m currently learning **Next.JS, React.JS, Codeigniter, and Laravel**
 
-- 💬 Ask me about **Next.JS, React.JS, Codeigniter, Flutter and Laravel**
+- 💬 Ask me about **Next.JS, React.JS, Codeigniter, React Native, Golang and Laravel**
 
 - 📫 How to reach me **https://www.linkedin.com/in/timothy-subekti**
 
