@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on PT Sprint Asia
 
-- 🌱 I’m currently learning **Next.JS, React.JS, Codeigniter, and Laravel**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Next.JS, React.JS, Codeigniter, React Native, Golang and Laravel**
 
