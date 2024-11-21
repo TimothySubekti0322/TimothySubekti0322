@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothysubekti0322&label=Profile%20views&color=0e75b6&style=flat" alt="timothysubekti0322" /> </p>
 
-- 🔭 I’m currently working on PT Sprint Asia
+- 🔭 I’m currently working on Grab
 
 - 🌱 I’m currently learning **Go**
 
