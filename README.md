@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothysubekti0322&label=Profile%20views&color=0e75b6&style=flat" alt="timothysubekti0322" /> </p>
 
-- 🔭 I’m currently working on Grab
+- 🔭 I’m currently working at Grab
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Next.JS, React.JS, Codeigniter, React Native, Golang and Laravel**
+- 💬 Ask me about **Python, Spring boot, Go, Node.js, Next.JS, React Native, Golang, Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/timothy-subekti**
 
